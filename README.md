@@ -30,12 +30,12 @@ Repositori ini berisi kumpulan skrip Python dasar yang dibuat untuk latihan pemr
 1. Clone repositori ini:
    ```
    git clone https://github.com/ahmadfdhl/program-assessment-python.git
-   cd python-basic
+   cd program-assessment-python
    ```
 
 2. Jalankan skrip Python mana pun menggunakan interpreter Python:
    ```
-   python nama_skrip.py
+   python assessment.py
    ```
 
    Contoh:
